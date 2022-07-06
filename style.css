@@ -20,8 +20,6 @@ body {
 
 .lorem {
     color: aqua;
-
-
     text-align: center;
 }
 
@@ -38,10 +36,56 @@ body {
     font-size: 60px;
     text-align: center;
     margin-top: 90px;
+    margin-bottom: 2%;
 }
 
 .Donate-today-1 {
     color: gray;
     text-align: center;
     font-style: normal;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+}
+
+.half-width {
+
+    background-color: rgb(250, 249, 249);
+
+    width: 100px;
+    padding: 35px;
+    border-radius: 5px;
+    text-align: center;
+    ;
+
+    margin: 1%;
+    margin-top: 50px;
+
+
+
+
+
+
+}
+
+.block-line {
+    display: flex;
+
+
+
+}
+
+.taka {
+    text-align: center;
+    margin-top: 50px;
+    font-style: normal;
+}
+
+.donate-plan {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.line-by-line {
+    padding-left: 11%;
 }
